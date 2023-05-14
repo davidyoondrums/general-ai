@@ -1,19 +1,17 @@
-# `BIG-AGI` 🤖💬
+# `General-AI` 🤖💬
 
-Welcome to `big-AGI`, FKA `nextjs-chatgpt-app`. 👋🎉
+Welcome to `General-AI`, FKA `nextjs-chatgpt-app`. 👋🎉
 Personal AGI App, powered by `OpenAI GPT-4` and beyond. Designed for smart humans and super-heroes,
 this responsive web app comes with Personas, Drawing, Code Execution, PDF imports, Voice support,
-data Rendering, AGI functions, chats and more. Show your friends some `#big-AGI-energy` 🚀
+data Rendering, AGI functions, chats and more. Show your friends some `#General-AI-energy` 🚀
 
-[![Official Website](https://img.shields.io/badge/BIG--AGI.com-%23096bde?style=for-the-badge&logo=vercel&label=demo)](https://big-agi.com)
+fork & run on Vercel
 
-Or fork & run on Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fenricoros%2Fbig-agi&env=OPENAI_API_KEY,OPENAI_API_HOST&envDescription=OpenAI%20KEY%20for%20your%20deployment.%20Set%20HOST%20only%20if%20non-default.)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fenricoros%2FGeneral-AI&env=OPENAI_API_KEY,OPENAI_API_HOST&envDescription=OpenAI%20KEY%20for%20your%20deployment.%20Set%20HOST%20only%20if%20non-default.)
 
 ## Useful 👊
 
-![Ask away, paste a ton, copy the gems](docs/pixels/big-AGI-compo1.png)
+![Ask away, paste a ton, copy the gems](docs/pixels/General-AI-compo1.png)
 
 - Engaging AI Personas
 - Clean UX, w/ tokens counters
@@ -23,26 +21,11 @@ Or fork & run on Vercel
 - Many more updates & integrations: ElevenLabs, Helicone, Paste.gg, Prodia
 - Coming up: automatic-AGI reasoning
 
-## Support 🙌
-
-[//]: # ([![Official Discord]&#40;https://img.shields.io/discord/1098796266906980422?label=discord&logo=discord&logoColor=%23fff&style=for-the-badge&#41;]&#40;https://discord.gg/MkH4qj2Jp9&#41;)
-[![Official Discord](https://discordapp.com/api/guilds/1098796266906980422/widget.png?style=banner2)](https://discord.gg/MkH4qj2Jp9)
-
-* Enjoy the hosted open-source app on [big-AGI.com](https://get.big-agi.com)
-* [Chat with us](https://discord.gg/MkH4qj2Jp9). We just started!
-* Deploy your [fork](https://github.com/enricoros/big-agi/fork) and surprise your friends with big-GPT
-  energy!
-* send PRs! ...
-  🎭[Editing Personas](https://github.com/enricoros/big-agi/issues/35),
-  🧩[Reasoning Systems](https://github.com/enricoros/big-agi/issues/36),
-  🌐[Community Templates](https://github.com/enricoros/big-agi/issues/35),
-  and [your big-IDEAs](https://github.com/enricoros/big-agi/issues/new?labels=RFC&body=Describe+the+idea)
-
 <br/>
 
 ## Latest Drops 🚀
 
-#### 🚨 April: more #big-agi-energy
+#### 🚨 April: more #General-AI-energy
 
 - 🎉 **[Google Search](docs/pixels/feature_react_google.png)** active in ReAct - add your keys to Settings > Google Search
 - 🎉 **[Reason+Act](docs/pixels/feature_react_turn_on.png)** preview feature - activate with 2-taps on the 'Chat' button
@@ -69,7 +52,7 @@ Or fork & run on Vercel
 - 🎉 **Context** - Attach or [Drag & Drop files](docs/pixels/feature_drop_target.png) to add them to the prompt 📁
 - 🎉 **Syntax highlighting** - for multiple languages 🌈
 - 🎉 **Code Execution: Sandpack** -
-   [now on branch]((https://github.com/enricoros/big-agi/commit/f678a0d463d5e9cf0733f577e11bd612b7902d89)) `variant-code-execution`
+   [now on branch]((https://github.com/enricoros/General-AI/commit/f678a0d463d5e9cf0733f577e11bd612b7902d89)) `variant-code-execution`
 - 🎉 Chat with GPT-4 and 3.5 Turbo 🧠💨
 - 🎉 Real-time streaming of AI responses ⚡
 - 🎉 **Voice Input** 🎙️ - works great on Chrome / Windows
@@ -84,10 +67,10 @@ Or fork & run on Vercel
 Because the official Chat ___lacks important features___, is ___more limited than the api___, at times
 ___slow or unavailable___, and you cannot deploy it yourself, remix it, add features, or share it with
 your friends.
-Our users report that ___big-AGI is faster___, ___more reliable___, and ___features rich___
+Our users report that ___General-AI is faster___, ___more reliable___, and ___features rich___
 with features that matter to them.
 
-![Much features, so fun](docs/pixels/big-AGI-compo2b.png)
+![Much features, so fun](docs/pixels/General-AI-compo2b.png)
 
 ## Code 🧩
 
@@ -98,8 +81,8 @@ with features that matter to them.
 Clone this repo, install the dependencies, and run the development server:
 
 ```bash
-git clone https://github.com/enricoros/big-agi.git
-cd big-agi
+git clone https://github.com/enricoros/General-AI.git
+cd General-AI
 npm install
 npm run dev
 ```
@@ -117,11 +100,11 @@ Now the app should be running on `http://localhost:3000`
 
 This project is licensed under the MIT License.
 
-[![GitHub stars](https://img.shields.io/github/stars/enricoros/big-agi)](https://github.com/enricoros/big-agi/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/enricoros/big-agi)](https://github.com/enricoros/big-agi/network)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/enricoros/big-agi)](https://github.com/enricoros/big-agi/pulls)
-[![License](https://img.shields.io/github/license/enricoros/big-agi)](https://github.com/enricoros/big-agi/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/enricoros/General-AI)](https://github.com/enricoros/General-AI/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/enricoros/General-AI)](https://github.com/enricoros/General-AI/network)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/enricoros/General-AI)](https://github.com/enricoros/General-AI/pulls)
+[![License](https://img.shields.io/github/license/enricoros/General-AI)](https://github.com/enricoros/General-AI/LICENSE)
 
-[//]: # ([![GitHub issues]&#40;https://img.shields.io/github/issues/enricoros/big-agi&#41;]&#40;https://github.com/enricoros/big-agi/issues&#41;)
+[//]: # ([![GitHub issues]&#40;https://img.shields.io/github/issues/enricoros/General-AI&#41;]&#40;https://github.com/enricoros/General-AI/issues&#41;)
 
 Made with 💙
