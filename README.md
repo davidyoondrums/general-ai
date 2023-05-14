@@ -11,7 +11,7 @@ fork & run on Vercel
 
 ## Useful 👊
 
-![Ask away, paste a ton, copy the gems](docs/pixels/General-AI-compo1.png)
+![Ask away, paste a ton, copy the gems](docs/pixels/big-AGI-compo1.png)
 
 - Engaging AI Personas
 - Clean UX, w/ tokens counters
@@ -70,7 +70,7 @@ your friends.
 Our users report that ___General-AI is faster___, ___more reliable___, and ___features rich___
 with features that matter to them.
 
-![Much features, so fun](docs/pixels/General-AI-compo2b.png)
+![Much features, so fun](docs/pixels/big-AGI-compo2b.png)
 
 ## Code 🧩
 
@@ -81,8 +81,8 @@ with features that matter to them.
 Clone this repo, install the dependencies, and run the development server:
 
 ```bash
-git clone https://github.com/enricoros/General-AI.git
-cd General-AI
+git clone https://github.com/davidyoondrums/general-ai.git
+cd general-ai
 npm install
 npm run dev
 ```
@@ -95,16 +95,3 @@ Now the app should be running on `http://localhost:3000`
 * [Helicone](https://www.helicone.ai/) LLM Observability Platform - Settings > Advanced > API Host: 'oai.hconeai.com'
 * [Paste.gg](https://paste.gg/) Paste Sharing - Chat Menu > Share via paste.gg
 * [Prodia](https://prodia.com/) Image Generation - Settings > Image Generation > Api Key & Model
-
-<br/>
-
-This project is licensed under the MIT License.
-
-[![GitHub stars](https://img.shields.io/github/stars/enricoros/General-AI)](https://github.com/enricoros/General-AI/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/enricoros/General-AI)](https://github.com/enricoros/General-AI/network)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/enricoros/General-AI)](https://github.com/enricoros/General-AI/pulls)
-[![License](https://img.shields.io/github/license/enricoros/General-AI)](https://github.com/enricoros/General-AI/LICENSE)
-
-[//]: # ([![GitHub issues]&#40;https://img.shields.io/github/issues/enricoros/General-AI&#41;]&#40;https://github.com/enricoros/General-AI/issues&#41;)
-
-Made with 💙
