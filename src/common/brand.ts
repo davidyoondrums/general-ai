@@ -10,7 +10,7 @@ export const Brand = {
   // Name: 'General-AGI',
   // UpperName: 'General-AGI',
   Title: {
-    Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'big-AGI',
+    Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'General-AI',
   },
   Meta: {
     SiteName: 'General-AI',
