@@ -1,15 +1,9 @@
-# BIG-AGI 🧠✨
+# General-AI 🧠✨
 
-Welcome to big-AGI 👋, the GPT application for professionals that need function, form,
+Welcome to General-AI 👋, the GPT application for professionals that need function, form,
 simplicity, and speed. Powered by the latest models from 11 vendors and
 open-source model servers, `big-AGI` offers best-in-class Voice and Chat with AI Personas,
 visualizations, coding, drawing, calling, and quite more -- all in a polished UX.
-
-Pros use big-AGI. 🚀 Developers love big-AGI. 🤖
-
-[![Official Website](https://img.shields.io/badge/BIG--AGI.com-%23096bde?style=for-the-badge&logo=vercel&label=launch)](https://big-agi.com)
-
-Or fork & run on Vercel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fenricoros%2Fbig-agi&env=OPENAI_API_KEY&envDescription=Backend%20API%20keys%2C%20optional%20and%20may%20be%20overridden%20by%20the%20UI.&envLink=https%3A%2F%2Fgithub.com%2Fenricoros%2Fbig-AGI%2Fblob%2Fmain%2Fdocs%2Fenvironment-variables.md&project-name=big-agi)
 
@@ -96,8 +90,8 @@ Clone this repo, install the dependencies (all locally), and run the development
 files for changes):
 
 ```bash
-git clone https://github.com/enricoros/big-agi.git
-cd big-agi
+git clone https://github.com/davidyoondrums/general-ai
+cd general-ai
 npm install
 npm run dev
 ```
@@ -119,26 +113,6 @@ next start --port 3000
 The app will be running on the specified port, e.g. `http://localhost:3000`.
 
 Want to deploy with username/password? See the [Authentication](docs/deploy-authentication.md) guide.
-
-## 🐳 Deploy with Docker
-
-For more detailed information on deploying with Docker, please refer to the [docker deployment documentation](docs/deploy-docker.md).
-
-Build and run:
-
-```bash
-docker build -t big-agi .
-docker run -d -p 3000:3000 big-agi
-``` 
-
-Or run the official container:
-
-- manually: `docker run -d -p 3000:3000 ghcr.io/enricoros/big-agi`
-- or, with docker-compose: `docker-compose up` or see [the documentation](docs/deploy-docker.md) for a composer file with integrated browsing
-
-## ☁️ Deploy on Cloudflare Pages
-
-Please refer to the [Cloudflare deployment documentation](docs/deploy-cloudflare.md).
 
 ## 🚀 Deploy on Vercel
 
