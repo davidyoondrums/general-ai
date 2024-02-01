@@ -22,5 +22,9 @@ export const Brand = {
     // App: 'https://general.yoon.ai',
     CardImage: 'https://yoon.ai/img/yoongpt.png',
     OpenRepo: 'https://github.com/davidyoondrums/general-ai',
+    OpenProject: 'https://github.com/users/enricoros/projects/4',
+    SupportInvite: 'https://discord.gg/MkH4qj2Jp9',
+    // Twitter: 'https://www.twitter.com/enricoros',
+    PrivacyPolicy: 'https://big-agi.com/privacy',
   },
 };
